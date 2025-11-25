@@ -93,9 +93,8 @@ Copy the UPLOAD folder and paste it into C - inetpub - wwwroot, then restart Int
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/OCkMydh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="916" height="308" alt="osTicket image 2" src="https://github.com/user-attachments/assets/2ece01b8-f6d5-4c14-930b-9fc468e73d07" />
+
 <p>
 Go to C - inetpub - wwwroot - osTicket - include and rename ost-sampleconfig.php to ost-config.php
 </p>
